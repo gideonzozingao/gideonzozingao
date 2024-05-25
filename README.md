@@ -8,7 +8,7 @@ I am a fullstack Developer skilled in PHP and Javascript
 
 * 🌍  I'm based in Port Moresby Papua New Guine
 * ✉️  You can contact me at [gideongzozingao@gmail.com](mailto:gideongzozingao@gmail.com)
-* I am currently working on a Todo app, with FastAPI backend  and react FrontEnd to keep track of daily tasks and improve productivity for my Team
+* 🚀 I am currently working on a Todo app, with FastAPI backend  and react FrontEnd to keep track of daily tasks and improve productivity for my Team
 * 🧠  I'm learning ML and Generative AI
 
 <a href="https://www.github.com/gideonzozingao" target="_blank" rel="noreferrer"><img
