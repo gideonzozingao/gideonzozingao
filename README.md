@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a fullstack Developer skilled in PHP and Javascript
+I am a fullstack Developer, skilled in PHP and Javascript, and Python
 
-* 🌍  I'm based in Port Moresby Papua New Guine
+* 🌍  I'm currently based in Port Moresby Papua New Guine.
 * ✉️  You can contact me at [gideongzozingao@gmail.com](mailto:gideongzozingao@gmail.com)
-* 🚀 I am currently working on a Todo app, with FastAPI backend  and react FrontEnd to keep track of daily tasks and improve productivity for my Team
-* 🧠  I'm learning ML and Generative AI
-
+* 🧠  I'm currently ML and Generative AI
 <a href="https://www.github.com/gideonzozingao" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gideonzozingao?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 ### Skills
