@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gideon Zozingao
 =======================================================================================================================================
 
-Full Stack Developer
+Full Stack Software Developer
 --------------------
 
-I am a fullstack Developer, skilled in PHP and Javascript, and Python
+I am a fullstack Developer, Skilled in PHP and Javascript/TypScript, and Python
 
 * 🌍  I'm currently based in Port Moresby Papua New Guine.
-* ✉️  You can contact me at [gideongzozingao@gmail.com](mailto:gideongzozingao@gmail.com)
-* 🧠  I'm currently ML and Generative AI
+* ✉️  Contact me at [gideongzozingao@gmail.com](mailto:gideongzozingao@gmail.com)
 <a href="https://www.github.com/gideonzozingao" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gideonzozingao?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 ### Skills
