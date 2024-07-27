@@ -8,8 +8,10 @@ Fullstack Developer, Skilled in PHP, Laravel,Synfony, Javascript/TypScript, and 
 
 * 🌍  I'm currently based in Port Moresby Papua New Guine.
 * ✉️  Contact me at [gideongzozingao@gmail.com](mailto:gideongzozingao@gmail.com)
+
 <a href="https://www.github.com/gideonzozingao" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gideonzozingao?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
+
 ### Skills
 
 <p align="left">
