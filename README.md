@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Developer
 --------------------
 
-I am a fullstack Developer, Skilled in PHP and Javascript/TypScript, and Python
+Fullstack Developer, Skilled in PHP, Laravel,Synfony, Javascript/TypScript, and Python, with vast experience in Modern Development Frameworks.
 
 * 🌍  I'm currently based in Port Moresby Papua New Guine.
 * ✉️  Contact me at [gideongzozingao@gmail.com](mailto:gideongzozingao@gmail.com)
