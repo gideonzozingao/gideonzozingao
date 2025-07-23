@@ -5,7 +5,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gideonzozingao&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gideonzozingao&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gideonzozingao&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![gideonzozingao's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gideonzozingao&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
