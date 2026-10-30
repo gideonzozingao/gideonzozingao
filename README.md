@@ -124,9 +124,6 @@
 
 ---
 
-
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gideonzozingao&theme=dark&background=263238&border=37474F&stroke=37474F&ring=80CBC4&fire=FFB74D&currStreakNum=ECEFF1&sideNums=ECEFF1&currStreakLabel=80CBC4&sideLabels=80CBC4&dates=B0BEC5&hide_border=false&border_radius=12" alt="GitHub streak" />
 </p>
@@ -137,17 +134,15 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🤝
 
 I'm open to **consulting engagements** through Zuqongtech, **open-source collaboration** and conversations with the PNG tech community.
-
 <p align="center">
   <a href="https://github.com/gideonzozingao"><img src="https://img.shields.io/badge/GitHub-263238?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0277BD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-00796B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://YOUR-ZUQONGTECH-SITE"><img src="https://img.shields.io/badge/Zuqongtech-37474F?style=for-the-badge&logo=laravel&logoColor=FFB74D" alt="Zuqongtech" /></a>
 </p>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:80CBC4,50:00796B,100:263238&section=footer" alt="footer" />
 </p>
