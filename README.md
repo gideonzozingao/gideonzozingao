@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Location-Port%20Moresby%2C%20PNG-263238?style=for-the-badge&logo=googlemaps&logoColor=80CBC4" alt="Location" />
 </p>
 
---
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
@@ -33,7 +32,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔤 Languages
+###  Languages
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -48,7 +47,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -65,7 +64,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Development
+###  Backend Development
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -82,7 +81,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Databases
+###  Databases
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -97,7 +96,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -110,7 +109,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 📊 Data Visualization & Messaging
+###  Data Visualization & Messaging
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
