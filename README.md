@@ -16,8 +16,18 @@
 </p>
 
 --
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+  <img src="assets/languages.svg" alt="Language usage across repositories" />
+</td>
+<td width="50%" valign="top" align="center">
+  <img src="assets/stats.svg" alt="GitHub stats" />
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
@@ -115,18 +125,8 @@
 
 ---
 
-## 📈 GitHub Analytics
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-  <img src="assets/languages.svg" alt="Language usage across repositories" />
-</td>
-<td width="50%" valign="top" align="center">
-  <img src="assets/stats.svg" alt="GitHub stats" />
-</td>
-</tr>
-</table>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gideonzozingao&theme=dark&background=263238&border=37474F&stroke=37474F&ring=80CBC4&fire=FFB74D&currStreakNum=ECEFF1&sideNums=ECEFF1&currStreakLabel=80CBC4&sideLabels=80CBC4&dates=B0BEC5&hide_border=false&border_radius=12" alt="GitHub streak" />
