@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="238" viewBox="0 0 460 238" role="img" aria-label="GitHub Stats">
+  <rect x="0.5" y="0.5" rx="12" width="459" height="237" fill="#263238" stroke="#37474F"/>
+  <text x="24" y="38" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#80CBC4">GitHub Stats</text>
+  <circle cx="30" cy="73" r="4" fill="#80CBC4"/>
+  <text x="44" y="78" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#ECEFF1">Public repositories</text>
+  <text x="430" y="78" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#80CBC4" text-anchor="end">35</text>
+  <circle cx="30" cy="103" r="4" fill="#FFB74D"/>
+  <text x="44" y="108" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#ECEFF1">Stars earned</text>
+  <text x="430" y="108" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#80CBC4" text-anchor="end">6</text>
+  <circle cx="30" cy="133" r="4" fill="#64B5F6"/>
+  <text x="44" y="138" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#ECEFF1">Forks received</text>
+  <text x="430" y="138" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#80CBC4" text-anchor="end">0</text>
+  <circle cx="30" cy="163" r="4" fill="#BA68C8"/>
+  <text x="44" y="168" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#ECEFF1">Followers</text>
+  <text x="430" y="168" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#80CBC4" text-anchor="end">3</text>
+  <circle cx="30" cy="193" r="4" fill="#81C784"/>
+  <text x="44" y="198" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#ECEFF1">Contributions (last year)</text>
+  <text x="430" y="198" font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#80CBC4" text-anchor="end">63</text>
+</svg>
