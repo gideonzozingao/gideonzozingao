@@ -156,34 +156,13 @@ Reusable Laravel package from Zuqongtech, built for production-grade application
 
 ## 📈 GitHub Analytics
 
-<!--
-  Material Dark palette used below:
-    bg_color     = 263238  (Blue Grey 900)
-    title_color  = 80CBC4  (Teal 200)
-    text_color   = ECEFF1  (Blue Grey 50)
-    icon_color   = FFB74D  (Orange 300)
-    border_color = 37474F  (Blue Grey 800)
-
-  NOTE: the public github-readme-stats instance only sees PUBLIC repositories.
-  To include private repos, self-host it (Vercel) with a PAT and replace the
-  base URL "github-readme-stats.vercel.app" with your own deployment.
--->
-
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-
-### 🍩 Language Usage (Doughnut)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideonzozingao&layout=donut&langs_count=8&hide_border=false&border_radius=12&bg_color=263238&title_color=80CBC4&text_color=ECEFF1&border_color=37474F&card_width=420" alt="Most used languages" />
-
+  <img src="assets/languages.svg" alt="Language usage across repositories" />
 </td>
 <td width="50%" valign="top" align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=gideonzozingao&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_radius=12&bg_color=263238&title_color=80CBC4&text_color=ECEFF1&icon_color=FFB74D&border_color=37474F&ring_color=80CBC4" alt="GitHub stats" />
-
+  <img src="assets/stats.svg" alt="GitHub stats" />
 </td>
 </tr>
 </table>
