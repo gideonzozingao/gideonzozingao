@@ -122,8 +122,6 @@
 </tr>
 </table>
 
----
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gideonzozingao&theme=dark&background=263238&border=37474F&stroke=37474F&ring=80CBC4&fire=FFB74D&currStreakNum=ECEFF1&sideNums=ECEFF1&currStreakLabel=80CBC4&sideLabels=80CBC4&dates=B0BEC5&hide_border=false&border_radius=12" alt="GitHub streak" />
 </p>
@@ -131,8 +129,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gideonzozingao&bg_color=263238&color=80CBC4&line=00796B&point=FFB74D&area=true&area_color=00796B&hide_border=true&title_color=80CBC4" alt="Contribution graph" />
 </p>
-
----
 
 ## 🤝
 
