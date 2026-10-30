@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:263238,50:00796B,100:80CBC4&text=Gideon%20Zozingao&fontColor=ECEFF1&fontSize=48&fontAlignY=38 />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:263238,50:00796B,100:80CBC4&text=Gideon%20Zozingao&fontColor=ECEFF1&fontSize=48&fontAlignY=38descColor=B2DFDB&descSize=16&descAlignY=58" alt="Gideon Zozingao" />
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/github/followers/gideonzozingao?style=for-the-badge&logo=github&logoColor=white&labelColor=263238&color=00796B" alt="Followers" />
   <img src="https://img.shields.io/badge/Location-Port%20Moresby%2C%20PNG-263238?style=for-the-badge&logo=googlemaps&logoColor=80CBC4" alt="Location" />
 </p>
-
 <!-- ===================== STATS (borderless, fluid) ===================== -->
 <p align="center">
   <img src="assets/languages.svg" alt="Language usage across repositories" width="49%" />
