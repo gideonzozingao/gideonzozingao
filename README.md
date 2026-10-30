@@ -140,7 +140,7 @@ I'm open to **consulting engagements** through Zuqongtech, **open-source collabo
 <p align="center">
   <a href="https://github.com/gideonzozingao"><img src="https://img.shields.io/badge/GitHub-263238?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0277BD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-00796B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:gideongzozingao@gmail.com"><img src="https://img.shields.io/badge/Email-00796B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://YOUR-ZUQONGTECH-SITE"><img src="https://img.shields.io/badge/Zuqongtech-37474F?style=for-the-badge&logo=laravel&logoColor=FFB74D" alt="Zuqongtech" /></a>
 </p>
 <p align="center">
