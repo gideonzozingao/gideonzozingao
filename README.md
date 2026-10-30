@@ -15,11 +15,6 @@
   <img src="https://img.shields.io/badge/Location-Port%20Moresby%2C%20PNG-263238?style=for-the-badge&logo=googlemaps&logoColor=80CBC4" alt="Location" />
 </p>
 
-<!-- ===================== ABOUT ===================== -->
-## About
-
-I lead digital product development at **NASFUND**, Papua New Guinea's National Superannuation Fund, where my team of Laravel, mobile and React developers builds member and employer-facing platforms. I'm also the founder of **Zuqongtech**, a Port Moresby software consultancy specialising in Laravel/PHP, and I maintain open-source tooling for the Laravel ecosystem.
-
 <!-- ===================== STATS (borderless, fluid) ===================== -->
 <p align="center">
   <img src="assets/languages.svg" alt="Language usage across repositories" width="49%" />
