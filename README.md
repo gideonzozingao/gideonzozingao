@@ -15,52 +15,7 @@
   <img src="https://img.shields.io/badge/Location-Port%20Moresby%2C%20PNG-263238?style=for-the-badge&logo=googlemaps&logoColor=80CBC4" alt="Location" />
 </p>
 
----
-
-## 👋 About Me
-
-I'm a **Team Leader of Digital Products Development at [NASFUND](https://www.nasfund.com.pg)** (Papua New Guinea's National Superannuation Fund), where I lead a team of Laravel backend, mobile and React frontend developers. I'm also the founder of **Zuqongtech**, a Port Moresby-based software consultancy specialising in Laravel/PHP, with secondary capabilities in WordPress, React/Next.js and AWS.
-
-My background is in **Mathematics and Computer Science** (University of Papua New Guinea), and I previously worked as a Senior Applications Developer at **Vodafone PNG**. I'm active in the PNG tech community and focus on enterprise systems, reusable open-source tooling and digital products built for the PNG market.
-
-| | |
-|---|---|
-| 🏢 **Role** | Team Leader, Digital Products Development, NASFUND |
-| 🚀 **Founder** | Zuqongtech: Laravel / PHP consultancy |
-| 🎓 **Education** | Mathematics & Computer Science, UPNG |
-| 📦 **Open Source** | Laravel Anvil · Laravel Kronos |
-| 🌏 **Based in** | Port Moresby, Papua New Guinea |
-
----
-
-## 📦 Featured Open-Source Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚒️ Laravel Anvil
-Developer tooling for Laravel that accelerates scaffolding and reverse-engineering of application code.
-
-<a href="https://github.com/zuqongtech/laravel-anvil">
-  <img src="https://img.shields.io/badge/View%20Repository-263238?style=for-the-badge&logo=github&logoColor=80CBC4" alt="Laravel Anvil" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⏱️ Laravel Kronos
-Reusable Laravel package from Zuqongtech, built for production-grade applications.
-
-<a href="https://github.com/zuqongtech/laravel-kronos">
-  <img src="https://img.shields.io/badge/View%20Repository-263238?style=for-the-badge&logo=github&logoColor=80CBC4" alt="Laravel Kronos" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
+--
 
 ## 🛠️ Tech Stack
 
@@ -69,6 +24,7 @@ Reusable Laravel package from Zuqongtech, built for production-grade application
 <td width="50%" valign="top">
 
 ### 🔤 Languages
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -83,6 +39,7 @@ Reusable Laravel package from Zuqongtech, built for production-grade application
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Development
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
@@ -99,6 +56,7 @@ Reusable Laravel package from Zuqongtech, built for production-grade application
 <td width="50%" valign="top">
 
 ### ⚙️ Backend Development
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
@@ -115,6 +73,7 @@ Reusable Laravel package from Zuqongtech, built for production-grade application
 <td width="50%" valign="top">
 
 ### 🗄️ Databases
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -129,6 +88,7 @@ Reusable Laravel package from Zuqongtech, built for production-grade application
 <td width="50%" valign="top">
 
 ### ☁️ Cloud & DevOps
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
@@ -141,6 +101,7 @@ Reusable Laravel package from Zuqongtech, built for production-grade application
 <td width="50%" valign="top">
 
 ### 📊 Data Visualization & Messaging
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
